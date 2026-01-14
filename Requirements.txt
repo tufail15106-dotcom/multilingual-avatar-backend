@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+requests
+langdetect
+googletrans==4.0.0-rc1
+SpeechRecognition
+gTTS
